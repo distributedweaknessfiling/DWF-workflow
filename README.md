@@ -7,17 +7,18 @@ For requesting CVE IDs, please see the project page here (add link when it
 exists)
 
 ## Workflow
+There are multiple workflows that take place.
 
-- User files issue
-  - issue has information, urls, etc
-  - issue is expected to be correct and reasonable
-  - An automated system can check the URLs are valid and well formed
-- Issue is turned into a CVE if user is approved and automated checks pass
-- Issue is turned into a CAN if user is not on the approved list
-  - Issues can be upgraded to CVE if proven to be correct and accurate
-  - Some issues will be CAN IDs forever
-  - DWF will not remove IDs that are invalid, but an appropriate comment will
-    be added
+1) User requests ID
+    - issue has information, urls, etc
+    - issue is expected to be correct and reasonable
+    - ID is requested via web form
+1) DWF bot looks for new issue
+    - If requester is on the allow list, a CVE is assigned, the issue is closed
+    - If requester is not on the allow list, a CAN is assigned, the issue remains open
+1) DWF bot looks for CAN ID that have been approved
+    - If approver is on the allow list, flip the CAN to CVE
+    - If approver is not on the allow list, remove the approved label
 
 ## User approval
 
