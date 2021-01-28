@@ -16,7 +16,7 @@ There are multiple workflows that take place.
 1) DWF bot looks for new issue
     - If requester is on the allow list, a CVE is assigned, the issue is closed
     - If requester is not on the allow list, a CAN is assigned, the issue remains open
-1) DWF bot looks for CAN ID that have been approved
+1) DWF bot looks for CAN IDs that have the approved flag
     - If approver is on the allow list, flip the CAN to CVE
     - If approver is not on the allow list, remove the approved label
 
