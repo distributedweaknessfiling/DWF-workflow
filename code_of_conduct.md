@@ -1,5 +1,5 @@
 
-# Contributor Covenant Code of Conduct
+# DWF Contributor Covenant Code of Conduct
 
 ## Our Pledge
 
