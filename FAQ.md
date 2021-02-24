@@ -1,7 +1,7 @@
 # DWF FAQ
 
 # Why are you doing this?
-We believe that the world needs good community driven secuirty identifiers. These do not currently exist.
+We believe that the world needs good community driven secuirty identifiers. These do not currently exist. All current securiyt identifiers are tied to a company and do not represent the interest of the security community.
 
 # Why not work with MITRE?
 We have tried in the past to work with MITRE to bring CVE into the future. Having had no luck with this we have decided to bring back the DWF project. DWF is not CVE, it's just compatible with CVE.
