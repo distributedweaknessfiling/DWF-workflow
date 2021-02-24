@@ -4,7 +4,7 @@
 We believe that the world needs good community driven secuirty identifiers. These do not currently exist.
 
 # Why not work with MITRE?
-We have tried in the past to work with MITRE to bring CVE into the future. Having had no luck with this we have decided to bring back the DWF project.
+We have tried in the past to work with MITRE to bring CVE into the future. Having had no luck with this we have decided to bring back the DWF project. DWF is not CVE, it's just compatible with CVE.
 
 # Are these real CVE IDs?
 These are not CVE IDs, these are DWF IDs.
