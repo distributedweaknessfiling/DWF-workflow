@@ -34,3 +34,5 @@ The DWF is a community. Fundamentally if you want to see a proces or tool
 improvement, submit an issue or a pull request. The people who do the work
 decide the future of the community. The future is not decided by whoever is
 able to "committee harder" during a meeting.
+
+The tools that drive the reqeusts can be found [here](https://github.com/distributedweaknessfiling/dwf-request), patches are always welcome. If you have suggestions or questions, please file an issue.
