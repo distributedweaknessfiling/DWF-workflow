@@ -3,8 +3,7 @@
 This repo is for defining workflow policy and storing the tooling to enforce
 that policy.
 
-For requesting CVE IDs, please see the project page here (add link when it
-exists)
+For requesting CVE IDs, please see the project page at https://iwantacve.org
 
 ## Workflow
 There are multiple workflows that take place.
