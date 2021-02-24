@@ -5,6 +5,8 @@ that policy.
 
 For requesting CVE IDs, please see the project page at https://iwantacve.org
 
+For all other requests, please file an issue in this repository.
+
 ## Expectations
 The single most important expectation we have is to involve humans as little as possible. When requesting an ID, we don't want to be slow, and we don't want to rely on humans. At first there will be plenty of human involvement as we work out some of the details. Long term, no human should be involved. Humans are slow and make too many mistakes.
 
