@@ -38,3 +38,16 @@ decide the future of the community. The future is not decided by whoever is
 able to "committee harder" during a meeting.
 
 The tools that drive the reqeusts can be found [here](https://github.com/distributedweaknessfiling/dwf-request), patches are always welcome. If you have suggestions or questions, please file an issue.
+
+# Where to file issues
+
+## Tooling discussion
+Please file issues about the tooling in the dwf-request repo: https://github.com/distributedweaknessfiling/dwf-request/issues
+
+## Contesting/disputing a DWF CVE ID
+
+If you think a DWF CVE ID contains an error or isn't valid please file an issue in the dwflist repo: https://github.com/distributedweaknessfiling/dwflist/issues
+
+## General discussion of DWF CVE IDs and the project
+
+If you want to discuss workflow or the DWF CVE ID project in general please use the dwf-workflow repo: https://github.com/distributedweaknessfiling/dwf-workflow/issues
