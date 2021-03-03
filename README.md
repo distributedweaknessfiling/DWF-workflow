@@ -3,7 +3,14 @@
 This repo is for defining workflow policy and storing the tooling to enforce
 that policy.
 
-For requesting CVE IDs, please see the project page at https://iwantacve.org
+For requesting CVE IDs, please see the project page at
+https://iwantacve.org
+
+If you are looking for the actual IDs
+https://github.com/distributedweaknessfiling/dwflist
+
+If you want to see the tools that drive everything
+https://github.com/distributedweaknessfiling/dwf-request
 
 For all other requests, please file an issue in this repository.
 
