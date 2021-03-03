@@ -6,6 +6,9 @@ that policy.
 For requesting CVE IDs, please see the project page at
 https://iwantacve.org
 
+The FAQ can be found here
+https://github.com/distributedweaknessfiling/dwf-workflow/blob/main/FAQ.md
+
 If you are looking for the actual IDs
 https://github.com/distributedweaknessfiling/dwflist
 
