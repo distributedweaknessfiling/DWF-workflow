@@ -27,10 +27,14 @@ There are multiple workflows that take place.
     - issue has information, urls, etc
     - issue is expected to be correct and reasonable
     - ID is requested via web form
+    - We do not have a good process for updating ID data today, we will need this
 1) DWF bot looks for new issue
     - If requester is on the allow list, a CVE is assigned, the issue is closed
     - If requester is not on the allow list, a CAN is assigned, the issue remains open
-1) DWF bot looks for CAN IDs that have the approved flag
+
+1) A person on the allow list just has to add the "approved" flag
+    - Adding a comment is not needed but encouraged
+3) DWF bot looks for CAN IDs that have the approved flag
     - If approver is on the allow list, flip the CAN to CVE
     - If approver is not on the allow list, remove the approved label
 
