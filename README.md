@@ -1,3 +1,8 @@
+# About DWF
+DWF is not affiliated with MITRE. The purpose of DWF is to curate a community around security identifiers.
+
+DWF IDs take the form CVE-YYYY-XXXXXXX. The integers start at 1000000, anything below one millino is a MITRE CVE ID. Anything above one million is a DWF ID.
+
 # Workflow and tools
 
 This repo is for defining workflow policy and storing the tooling to enforce
