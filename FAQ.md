@@ -9,5 +9,12 @@ We have tried in the past to work with MITRE to bring legacy CVE into the future
 # Are these real CVE IDs?
 These are not CVE IDs, these are DWF IDs. They do however start with the 3 letters 'CVE'. DWF IDS will take the form of CVE-YYYY-XXXXXXX, the numerical part of the ID is always an integer greater than 1 million.
 
+# Why use CVE in the identifier, why not use DWF?
+CVE now means "vulnerability" in the same way a tissue is a kleenex.
+If we create a "new" naming scheme we end up with [XKCD 927](https://xkcd.com/927/).
+if we reuse an existing naming scheme, there isn't an increase in identifiers names.
+
+We have staked out a claim well outside a range that could possible be a concern, that's why the 1 million. It's a huge number that probably won't have any collisions (possibly ever, but at least for decades).
+
 # I don't have a github account
 This is a dealbreaker if you want to submit IDs to the project. You can try to find a different project member to submit ID details on your behalf.
