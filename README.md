@@ -35,18 +35,18 @@ There are multiple workflows that take place.
     - ID is requested via web form
     - We do not have a good process for updating ID data today, we will need this
 1) DWF bot looks for new issue
-    - If requester is on the allow list, a CVE is assigned, the issue is closed
+    - If requester is on the allow list, a DWF Identifier (that may be CAN or CVE compatible) is assigned, the issue is closed
     - If requester is not on the allow list, a CAN is assigned, the issue remains open
 
 1) A person on the allow list just has to add the "approved" flag
     - Adding a comment is not needed but encouraged
 3) DWF bot looks for CAN IDs that have the approved flag
-    - If approver is on the allow list, flip the CAN to CVE
+    - If approver is on the allow list, flip the DWF Identifier from CAN compatible to CVE compatible
     - If approver is not on the allow list, remove the approved label
 
 ## User approval
 
-- Submit well formed CVE IDs on a consistent basis
+- Submit well formed DWF Identifier requests on a consistent basis
 - Assist with updating and vetting issues
 - ???
 
@@ -64,10 +64,10 @@ The tools that drive the reqeusts can be found [here](https://github.com/distrib
 ## Tooling discussion
 Please file issues about the tooling in the dwf-request repo: https://github.com/distributedweaknessfiling/dwf-request/issues
 
-## Contesting/disputing a DWF CVE ID
+## Contesting/disputing a DWF Identifiers
 
-If you think a DWF CVE ID contains an error or isn't valid please file an issue in the dwflist repo: https://github.com/distributedweaknessfiling/dwflist/issues
+If you think a DWF Identifier contains an error or isn't valid please file an issue in the dwflist repo: https://github.com/distributedweaknessfiling/dwflist/issues
 
-## General discussion of DWF CVE IDs and the project
+## General discussion of DWF Identifiers and the project
 
-If you want to discuss workflow or the DWF CVE ID project in general please use the dwf-workflow repo: https://github.com/distributedweaknessfiling/dwf-workflow/issues
+If you want to discuss workflow or the DWF Identifiers project in general please use the dwf-workflow repo: https://github.com/distributedweaknessfiling/dwf-workflow/issues
