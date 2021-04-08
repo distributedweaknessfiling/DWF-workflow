@@ -42,4 +42,4 @@ We don't have a good answer for this today. Without GitHub we cannot run this pr
 
 # How do we stop potential scammers from just creating a host of false issues (perhaps via multiple throwaway github accounts)?
 
-It's hard to create a lot of throwaway github accounts. We don't have a denylist yet, but will create one if needed. We also assign a CAN ID for unknown reporters. An untrusted user cannot get a CVE ID without someone trusted approving their request.
+It's hard to create a lot of throwaway github accounts. We don't have a denylist yet, but will create one if needed. We also assign a CAN ID for unknown reporters. An untrusted user cannot get a DWF ID without someone trusted approving their request.
