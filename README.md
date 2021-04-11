@@ -2,6 +2,16 @@
 
 DWF is not approved of, by, or affiliated with MITRE. DWF is community project to assign security identifiers that are widely used and compatible with existing systems. We would love it if you joined us!
 
+# Community
+
+DWF welcome anyone who wishes to engage in the community. Please review our [Code of Conduct](https://github.com/distributedweaknessfiling/dwf-workflow/blob/main/code_of_conduct.md) to understand the expectations of all community members.
+
+In addition to the expectations around conduct, we have the following expectations of our community
+- We expect individuals to be involved in discussions
+    - Bots, Service accounts, and Organizations are not welcome to be part of discussions. Discussions are between human individuals to help foster connections and civility
+    - Humans speaking on behalf of an organization is welcome
+- We expect human individuals to submit pull requests against policy and documentation. These requests should not come from bots and service accounts
+- Bot and other service accounts are welcome to be used to submit pull requests and open issues against data
 
 # Workflow and tools
 
